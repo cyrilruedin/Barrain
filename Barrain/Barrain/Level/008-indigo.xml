@@ -1,0 +1,45 @@
+<barrage>
+  <info>
+    <size y="5" z="2"/>
+    <lvl freightSize="8" fuelCapacity="60" maxMissingBlocs="0" nearFactory="True"/>
+  </info>
+  <pieces>
+    <piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+	<piece>Cube2</piece>
+  </pieces>
+  <level>
+
+  </level>
+</barrage>

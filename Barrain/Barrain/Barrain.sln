@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barrain", "Barrain.csproj", "{F59F4DA5-FB67-3E23-DBFF-A6FB2DE0070E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barrain.Editor", "Barrain.Editor.csproj", "{68CA297A-13F5-F752-A7C4-4A2FCEE7C5C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59F4DA5-FB67-3E23-DBFF-A6FB2DE0070E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59F4DA5-FB67-3E23-DBFF-A6FB2DE0070E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59F4DA5-FB67-3E23-DBFF-A6FB2DE0070E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59F4DA5-FB67-3E23-DBFF-A6FB2DE0070E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CA297A-13F5-F752-A7C4-4A2FCEE7C5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CA297A-13F5-F752-A7C4-4A2FCEE7C5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CA297A-13F5-F752-A7C4-4A2FCEE7C5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CA297A-13F5-F752-A7C4-4A2FCEE7C5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

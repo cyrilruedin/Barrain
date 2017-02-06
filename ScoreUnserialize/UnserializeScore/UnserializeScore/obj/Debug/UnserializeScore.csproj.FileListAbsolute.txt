@@ -1,0 +1,6 @@
+C:\Users\cyril\Desktop\forges\SG_Barrage\ScoreUnserialize\UnserializeScore\UnserializeScore\bin\Debug\UnserializeScore.exe.config
+C:\Users\cyril\Desktop\forges\SG_Barrage\ScoreUnserialize\UnserializeScore\UnserializeScore\bin\Debug\UnserializeScore.exe
+C:\Users\cyril\Desktop\forges\SG_Barrage\ScoreUnserialize\UnserializeScore\UnserializeScore\bin\Debug\UnserializeScore.pdb
+C:\Users\cyril\Desktop\forges\SG_Barrage\ScoreUnserialize\UnserializeScore\UnserializeScore\obj\Debug\UnserializeScore.csprojResolveAssemblyReference.cache
+C:\Users\cyril\Desktop\forges\SG_Barrage\ScoreUnserialize\UnserializeScore\UnserializeScore\obj\Debug\UnserializeScore.exe
+C:\Users\cyril\Desktop\forges\SG_Barrage\ScoreUnserialize\UnserializeScore\UnserializeScore\obj\Debug\UnserializeScore.pdb

@@ -1,0 +1,122 @@
+<barrage>
+  <info>
+    <size y="5" z="3"/>
+    <lvl freightSize="4" fuelCapacity="3" maxMissingBlocs="1" nearFactory="False"/>
+  </info>
+  <pieces>
+    <piece>L</piece>
+	<piece>L</piece>
+	<piece>Cube1</piece>
+	<piece>T</piece>
+	<piece>U</piece>
+	<piece>L</piece>
+	<piece>L</piece>
+	<piece>Cube1</piece>
+	
+	
+  </pieces>
+  <level>
+    <bloc x="0" y="0" z="0" />
+	<bloc x="0" y="0" z="1" />
+	<bloc x="0" y="0" z="2" />
+    <bloc x="0" y="1" z="0" />
+    <bloc x="0" y="1" z="1" />
+	<bloc x="0" y="1" z="2" />
+    <bloc x="0" y="2" z="0" />
+    <bloc x="0" y="2" z="1" />
+	<bloc x="0" y="2" z="2" />
+    <bloc x="0" y="3" z="0" />
+    <bloc x="0" y="3" z="1" />
+	<bloc x="0" y="3" z="2" />
+    <bloc x="0" y="4" z="0" />
+    <bloc x="0" y="4" z="1" />
+	<bloc x="0" y="4" z="2" />
+
+	<bloc x="1" y="0" z="0" />
+	<bloc x="1" y="0" z="1" />
+	<bloc x="1" y="0" z="2" />
+	
+	<bloc x="2" y="0" z="0" />
+	<bloc x="2" y="0" z="1" />
+	<bloc x="2" y="0" z="2" />
+    <bloc x="2" y="1" z="0" />
+    <bloc x="2" y="1" z="1" />
+	<bloc x="2" y="1" z="2" />
+    <bloc x="2" y="2" z="0" />
+    <bloc x="2" y="2" z="1" />
+	<bloc x="2" y="2" z="2" />
+    <bloc x="2" y="3" z="0" />
+    <bloc x="2" y="3" z="1" />
+	<bloc x="2" y="3" z="2" />
+	
+	<bloc x="3" y="0" z="0" />
+	<bloc x="3" y="0" z="1" />
+	<bloc x="3" y="0" z="2" />
+    <bloc x="3" y="1" z="0" />
+    <bloc x="3" y="1" z="1" />
+	<bloc x="3" y="1" z="2" />
+    <bloc x="3" y="2" z="0" />
+    <bloc x="3" y="2" z="1" />
+	<bloc x="3" y="2" z="2" />
+    <bloc x="3" y="3" z="0" />
+    <bloc x="3" y="3" z="1" />
+	<bloc x="3" y="3" z="2" />
+	
+	<bloc x="4" y="0" z="0" />
+	<bloc x="4" y="0" z="1" />
+	<bloc x="4" y="0" z="2" />
+    <bloc x="4" y="1" z="0" />
+    <bloc x="4" y="1" z="1" />
+	<bloc x="4" y="1" z="2" />
+    <bloc x="4" y="2" z="0" />
+    <bloc x="4" y="2" z="1" />
+	<bloc x="4" y="2" z="2" />
+    <bloc x="4" y="3" z="0" />
+    <bloc x="4" y="3" z="1" />
+	<bloc x="4" y="3" z="2" />
+	
+	<bloc x="5" y="0" z="0" />
+	<bloc x="5" y="0" z="1" />
+	<bloc x="5" y="0" z="2" />
+    <bloc x="5" y="1" z="0" />
+    <bloc x="5" y="1" z="1" />
+	<bloc x="5" y="1" z="2" />
+    <bloc x="5" y="2" z="0" />
+    <bloc x="5" y="2" z="1" />
+	<bloc x="5" y="2" z="2" />
+    <bloc x="5" y="3" z="0" />
+    <bloc x="5" y="3" z="1" />
+	<bloc x="5" y="3" z="2" />
+
+	
+	<bloc x="6" y="0" z="0" />
+	<bloc x="6" y="0" z="1" />
+	<bloc x="6" y="0" z="2" />
+    <bloc x="6" y="1" z="0" />
+    <bloc x="6" y="1" z="1" />
+	<bloc x="6" y="1" z="2" />
+    <bloc x="6" y="2" z="0" />
+    <bloc x="6" y="2" z="1" />
+	<bloc x="6" y="2" z="2" />
+    <bloc x="6" y="3" z="0" />
+    <bloc x="6" y="3" z="1" />
+	<bloc x="6" y="3" z="2" />
+
+	
+	<bloc x="7" y="0" z="0" />
+	<bloc x="7" y="0" z="1" />
+	<bloc x="7" y="0" z="2" />
+    <bloc x="7" y="1" z="0" />
+    <bloc x="7" y="1" z="1" />
+	<bloc x="7" y="1" z="2" />
+    <bloc x="7" y="2" z="0" />
+    <bloc x="7" y="2" z="1" />
+	<bloc x="7" y="2" z="2" />
+    <bloc x="7" y="3" z="0" />
+    <bloc x="7" y="3" z="1" />
+	<bloc x="7" y="3" z="2" />
+
+	
+
+  </level>
+</barrage>
